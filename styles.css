@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+form {
+	width: fit-content;
+	height: fit-content;
+	padding: 10px;
+	border-radius: 10px;
+	border: 1px solid;
+}
